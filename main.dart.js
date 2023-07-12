@@ -80888,7 +80888,7 @@ return A.P(n.vL(a),$async$hy)
 case 3:p=5
 i=a.eH()
 s=8
-return A.P(n.a.yJ(new A.ahk("http://it.citglobal.com:8085/product-backend-mule4",i)),$async$hy)
+return A.P(n.a.yJ(new A.ahk("http://https://it.citglobal.com:8085/product-backend-mule4",i)),$async$hy)
 case 8:m=c
 l=A.aSU(m.a)
 q=l
